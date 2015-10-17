@@ -1,2 +1,8 @@
 # react-node-hackathon-starter
-minimalistic react app skeleton, useful for hackathons or weekend projects
+react, jade, browserify, node, express, source maps -- no bloat.  It makes me happy.
+
+# install
+    $ npm install
+    $ npm run build
+    $ node app.js
+
