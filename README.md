@@ -1,10 +1,10 @@
-# react-node-hackathon-starter
+# browserify-react-node-hackathon-boilerplate
 
-No-bloat React boilerplate.  Using [jade](https://github.com/pugjs/jade) templates and [browserify](http://browserify.org/) modules.  Source maps are generated with [exorcist](https://github.com/thlorenz/exorcist).  The node server uses [express](http://expressjs.com/) middleware.
+No-bloat React boilerplate.  Using [browserify](http://browserify.org/) modules, [jade](https://github.com/pugjs/jade) templates, a [node/express](https://expressjs.com/) server, and source maps generated with [exorcist](https://github.com/thlorenz/exorcist).
 
-Server and client code are both written with ES6.
+Related and newer boilerplate: [webpack-babel-react-hackathon-boilerplate](https://github.com/ahoskins/webpack-babel-react-hackathon-boilerplate). 
 
-# install
+# usage
 
     $ npm install
     $ npm run watch
